@@ -21,10 +21,10 @@ author: Carmen Watkins
 
 navbar-links:
   About Me: "aboutme"
-  Research: 
-  Publications: 
-  News: 
-  Contact: 
+  Research: "research"
+  Publications: "publications"
+  News: "news"
+  Contact: "contact"
 
 ################
 # --- Logo --- #
