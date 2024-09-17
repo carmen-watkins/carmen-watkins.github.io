@@ -21,9 +21,9 @@ author: Carmen Watkins
 
 navbar-links:
   About Me: "content/aboutme"
-  Research: "research"
-  Publications: "publications"
-  News: "news"
+  Research: "content/research"
+  Publications: "content/publications"
+  News: "content/news"
   Contact: "content/contact"
 
 ################
