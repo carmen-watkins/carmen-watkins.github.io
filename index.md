@@ -2,7 +2,8 @@
 layout: home
 title: Carmen Watkins
 subtitle: 
-+ cover-img: /assets/img/homepage/SFREC_morning.jpg
+![morning before fieldwork][SFREC sunrise] 
 ---
 
 
+[SFREC sunrise]: /assets/img/homepage/SFREC_morning.jpg
