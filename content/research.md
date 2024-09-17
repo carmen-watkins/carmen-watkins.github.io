@@ -1,9 +1,15 @@
 ---
 layout: page
-title: About me
+title: Research
 subtitle: 
 ---
 
+### Context-Dependent Facilitation
+
+### Coexistence in California Rangelands
+
+### Subordinate species
+
+### Drought and Herbivory drive Stability
 
 
-### My story
