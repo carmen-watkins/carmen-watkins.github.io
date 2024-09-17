@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About me
+title: Contact
 subtitle: 
 ---
 
+Contact me at mailto:carmenrose4@gmail.com
 
 
-### My story

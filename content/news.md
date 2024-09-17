@@ -1,9 +1,6 @@
 ---
 layout: page
-title: About me
+title: News
 subtitle: 
 ---
 
-
-
-### My story

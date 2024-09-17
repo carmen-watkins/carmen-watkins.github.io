@@ -5,5 +5,3 @@ subtitle:
 ---
 
 
-
-### My story
