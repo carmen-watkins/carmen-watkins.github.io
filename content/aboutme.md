@@ -1,7 +1,5 @@
 ---
 layout: page
-title: About me
-subtitle: 
 ---
 
 <div align = "center">
