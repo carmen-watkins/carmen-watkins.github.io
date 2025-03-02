@@ -4,7 +4,7 @@ title: About me
 subtitle: 
 ---
 
-![headshot in greenhouse][Greenhouse pic]
+![headshot in greenhouse][Greenhouse pic]{:.mx-auto.d-block:width="250"}
 
 
 I am an NSF Graduate Research Fellow and PhD candidate in Dr. Lauren Hallett's lab at the University of Oregon. I am interested in understanding how biotic interactions, global change drivers, and environmental variability shape ecological communities and am passionate about using theory to address ecosystem restoration and land management challenges. 
