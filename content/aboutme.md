@@ -4,14 +4,6 @@ title: About me
 subtitle: 
 ---
 
-![headshot in greenhouse][Greenhouse pic smallest]
-
-![headshot in greenhouse](/assets/img/aboutme/headshot_smallest.jpg){width = 300}
-
-
-<img src = "/assets/img/aboutme/headshot_smallest.jpg" >
-
-
 <div align = "center">
 
 <img src = "/assets/img/aboutme/headshot_smaller.jpg" >
