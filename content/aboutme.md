@@ -13,4 +13,11 @@ My research explores how the interplay between drought, herbivory, and plant int
 
 [Greenhouse pic]: /assets/img/aboutme/headshot.jpg
 
-<img src="https://user-images.githubusercontent.com//assets/img/aboutme/headshot.jpg" width="200" />
+<img src="https://user-images.githubusercontent.com/assets/img/aboutme/headshot.jpg" width="5" />
+
+<img src="./assets/img/aboutme/headshot.jpg" width="30" />
+
+
+
+
+
