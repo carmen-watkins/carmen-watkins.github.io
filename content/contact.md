@@ -4,6 +4,6 @@ title: Contact
 subtitle: 
 ---
 
-Contact me at mailto:carmenrose4@gmail.com
+Contact me at cebel2@uoregon.edu
 
 
