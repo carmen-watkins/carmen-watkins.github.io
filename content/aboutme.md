@@ -4,7 +4,7 @@ layout: page
 
 <div align = "center">
 
-<img src = "/assets/img/aboutme/headshot_smaller.jpg" >
+<img src = "/assets/img/aboutme/headshot_smaller.jpg" width = "300" >
 
 </div>
 
