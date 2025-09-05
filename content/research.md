@@ -7,7 +7,7 @@ title: Research
 
 
 section {
-  display: flex;
+  display: columns;
 }
 article {
   padding: 0 2em;
@@ -16,7 +16,7 @@ article {
 <section class="container">
   <article>
     <h2>First title</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultrices sapien ut nulla malesuada, at vehicula ex cursus. Suspendisse ac leo aliquet, gravida lectus eleifend, facilisis ante. In pretium tempus orci, id pretium ipsum. Nulla bibendum odio ut lobortis pharetra. Integer nec lectus pellentesque purus eleifend venenatis. In et sagittis ipsum, eget volutpat enim. Vivamus vel neque sit amet nisl vulputate scelerisque id in diam. Fusce pretium, est eget sodales faucibus, turpis erat sollicitudin nisl, a elementum lorem nisi quis nisi. Nullam tincidunt iaculis lectus. Morbi nec sem metus. Nulla cursus tincidunt cursus.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultrices sapien ut nulla malesuada, at vehicula ex cursus. Suspendisse ac leo aliquet, gravida lectus eleifend, facilisis ante. In pretium tempus orci, id pretium ipsum. Nulla bibendum .</p>
   </article>
   <article>
     <h2>Second title</h2>
