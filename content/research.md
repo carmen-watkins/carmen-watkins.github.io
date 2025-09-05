@@ -5,9 +5,9 @@ title: Research
 
 <div class="research-row">
 <div class="research-column-image">
-<a target="_blank" href="/../../assets/img/IMG_2973.jpg"><img src="/../../assets/img/IMG_2973.jpg"/></a>
+<a target="_blank" href="/../../assets/img/research/IMG_3141.jpg"><img src="/../../assets/img/research/IMG_3141.jpg"/></a>
 <div class="caption">
-Seeded, burned area in Owyhee, ID.
+Common garden experiment in Northern California.
 </div>
 </div>
 
