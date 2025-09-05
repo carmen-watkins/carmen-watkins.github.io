@@ -4,6 +4,6 @@ title: Contact
 subtitle: 
 ---
 
-Contact me at cebel2@uoregon.edu
+Contact me at watkinsc[at]tcd.ie
 
 
