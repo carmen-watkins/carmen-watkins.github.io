@@ -1,22 +1,19 @@
 ---
 layout: page
 title: Research
-subtitle: 
 ---
-
 
 <div class="research-row">
 <div class="research-column-image">
 
-<img src = "/assets/img/aboutme/headshot_smaller.jpg" width = "300" >
-
+<img src = "/assets/img/aboutme/headshot_smaller.jpg" width = "200" >
 <div class="caption">
 Seeded, burned area in Owyhee, ID.
 </div>
 </div>
 
 <div class="research-column-text">
-<h3 style="text-align: center">
+<h3 style="text-align: left">
 Genetic Diversity of Native Plant Populations
 </h3>
 Seed-based restoration after wildfires is common throughout the Great Basin. Native perennial grass species are often included in the
