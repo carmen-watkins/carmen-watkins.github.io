@@ -3,17 +3,7 @@ layout: page
 title: Research
 ---
 
-
-
-
-section {
-  display: columns;
-}
-article {
-  padding: 0 2em;
-}
-
-<section class="container">
+<section class="column">
   <article>
     <h2>First title</h2>
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultrices sapien ut nulla malesuada, at vehicula ex cursus. Suspendisse ac leo aliquet, gravida lectus eleifend, facilisis ante. In pretium tempus orci, id pretium ipsum. Nulla bibendum .</p>
