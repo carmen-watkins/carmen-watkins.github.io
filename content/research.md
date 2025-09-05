@@ -5,16 +5,14 @@ title: Research
 
 <div class="research-row">
 <div class="research-column-image">
-
-<a target="_blank" href="/../../assets/img/aboutme/headshot_smaller.jpg"><img src="/../../assets/img/aboutme/headshot_smaller.jpg"/></a>
-
+<a target="_blank" href="/../../assets/img/research/bluebunch.jpg"><img src="/../../assets/img/research/bluebunch-small.jpg"/></a>
 <div class="caption">
 Seeded, burned area in Owyhee, ID.
 </div>
 </div>
 
 <div class="research-column-text">
-<h3 style="text-align: left">
+<h3 style="text-align: center">
 Genetic Diversity of Native Plant Populations
 </h3>
 Seed-based restoration after wildfires is common throughout the Great Basin. Native perennial grass species are often included in the
@@ -24,21 +22,114 @@ by Soda Fire in 2015.
 </div>
 </div>
 
+<div class="research-row">
+<div class="research-column-text">
+<h3 style="text-align: center">
+Forward-looking Seed Sourcing
+</h3>
+Seed sourcing is an important decision practitioners make in restoration. Will the plants we seed now persist into the future? 
+Climate-adjusted provenancing is an alternative seed sourcing strategy to local provanancing that mixes local seeds with non-local seeds
+to increase the buffering capacity of restored populations. I conducted a field common garden experiment and found that seeds sourced from warmer 
+and drier sites have higher success of establishment in moderate drought. To examine what the roots are doing belowground, I conducted a greenhouse 
+experiment and found that the trade-offs in drought tolerance (higher fine roots) and invasive resistant (higher SLA) seedling traits complicate 
+the seed selection process.  
+Read more on <a target="_blank" href=" https://doi.org/10.1111/rec.14210">climate-adjusted seed sourcing</a> and 
+<a target="_blank" href="https://doi.org/10.1111/rec.13816">seedling traits</a>.  
+</div>
 
+<div class="research-column-image">
+<a target="_blank" href="/../../assets/img/research/eoarc.jpg"><img src="/../../assets/img/research/eoarc-small.jpg" /></a>
 
-### Context-Dependent Facilitation
+<div class="caption">
+Field experiment at the Northern Great Basin Experimental Range, OR.
+</div>
+</div>
 
-### Coexistence in California Rangelands
+</div>
 
-Drought can alter coexistence outcomes in communities through direct effects on plant growth rates and indirect effects on plant-plant interactions, likely moderated by species’ origins and functional traits. To test this, I paired a field experiment in California grasslands manipulating rainfall (ambient, drought) and pairwise species interactions (between 16 species) with an extensive trait screening to parameterize population models, enabling me to simulate coexistence and partition niche and fitness differences for communities with different levels of invasion and functional composition, with and without 
-drought. I found that, under ambient conditions, invasive grasses but not forbs reduced the probability of community coexistence, while legumes increased coexistence through facilitation. In contrast, invasive grasses partly mitigated the negative effect of drought on coexistence, whereas invasive forbs eroded community coexistence under drought. Communities with greater resource acquisitive traits or proportions of fine roots were particularly prone to reducing coexistence probability through reduced niche differences. 
+<div class="research-row">
+<div class="research-column-image">
 
-### Subordinate species
+<a target="_blank" href="/../../assets/img/research/roots.jpg"><img src="/../../assets/img/research/roots-small.jpg" /></a>
+<div class="caption">
+Root harvest at the UO Greenhouse Facility. 
+</div>
+</div>
 
-Rare species are often assumed to be more sensitive to perturbations than common species due to small population sizes, but this does not account for individual rare species’ life histories such as adaptations to take advantage of environmental stochasticity. I led a working group paper synthesizing data from six sites across the US to test whether a species’ spatial and temporal rarity predict its positive response during and 
-after an extreme drought and how this relationship is mediated by temperature, growing season precipitation, and site level species’ dominance. I found that more spatially and temporally rare species had stronger positive responses to drought, particularly at sites with high levels of dominance or lower mean annual precipitation. 
+<div class="research-column-text">
+<h3 style="text-align: center">
+Functional Diversity and Productivity
+</h3>
+Does functional diversity buffer plant communities from drought? Combining plant response data from a rainfall manipulation experiment 
+and greenhouse trait measurements, we found that functional diversity buffered biomass production by enabling shifts in above-and 
+belowground functional traits across variable rainfall conditions. 
+Read more on <a target="_blank" href="https://doi.org/10.1111/1365-2435.14394">root functional diversity</a>. 
+</div>
+</div>
 
-### Drought and Herbivory drive Stability
+<div class="research-row">
 
- I analyzed 21 years of cover data, with six drought events, from an experiment in a semi-arid Kenyan savanna manipulating herbivory of cattle, wild mesoherbivores, and wild megaherbivores alone and in combination. I used structural equation modeling to assess direct and indirect effects of drivers and found that while each driver had direct negative effects on stability, both also increased synchrony among species in the community. Herbivory – particularly  cattle – further reduced community stability by diminishing the population stability of dominant specie
+<div class="research-column-text">
+
+<h3 style="text-align: center">
+Application of Modern Coexistence Theory
+</h3>
+How do we know when restoration is successful? Fluctuating populations and changing starting conditions make evaluation of restoration 
+success tricky. As part of an international working group hosted at the German Centre for Integrative Biodiversity Research (iDiv), I 
+led a study on applying demographic modeling and principles from the Modern Coexistence Theory to rare plant restoration. 
+Using a long-term monitoring data of an endangered species, Contra Costa goldfields
+(<i>Lasthenia conjugens</i>), from a vernal pool restoration project, we found that model-derived low-density growth rates and per 
+capita intrinsic growth rates were reliable metrics for diagnosing long-term restoration trajectories. Read more on <a target="_blank" 
+href="https://doi.org/10.1002/eap.2649">this empirical study</a> and <a target="_blank" href="https://doi.org/10.1016/j.tree.2023.06.004"> the concept</a>.  
+</div>
+
+<div class="research-column-image">
+<a target="_blank" href="/../../assets/img/research/lasthenia.jpg"><img src="/../../assets/img/research/lasthenia-small.jpg" /></a>
+<div class="caption">
+Contra Costa goldfields at Travis Air Force Base, CA. Photo credit: Dr. Akasha Faist
+</div>
+</div>
+
+</div>
+
+<div class="research-row">
+
+<div class="research-column-image">
+<a target="_blank" href="/../../assets/img/research/tejon.jpg"><img src="/../../assets/img/research/tejon-small.jpg" /></a>
+<div class="caption">
+Native flora at Tejon Ranch, CA.
+</div>
+</div>
+
+<div class="research-column-text">
+<h3 style="text-align: center">
+Ecological Site Description and Ecosystem Services
+</h3>
+How do we manage for multiple ecosystem services? We found that the Ecological Site Description framework developed primarily to manage forage on 
+heterogeneous rangeland landscapes has potential to be useful for managing other resources such as plant biodiversity and soil carbon at the ranch scale. 
+Read more on <a target="_blank" href="https://doi.org/10.1016/j.rala.2020.05.002">plant diversity</a>
+and <a target="_blank" href="https://doi.org/10.1111/rec.13353">soil carbon</a>.
+</div>
+
+</div>
+
+<div class="research-row">
+
+<div class="research-column-text">
+<h3 style="text-align: center">
+Perception of Rangeland Conservation
+</h3>
+What are the barriers and opportunities for rangeland conservation in California? In a patchwork of private and public lands, California's rangeland 
+conservation hinges on partnerships across multiple stakeholders. I interviewed ranchers, land managers, and academics in the Central Coast Rangeland Coalition 
+to understand how they perceive rangeland conservation. Read more on this <a target="_blank" href="https://doi.org/10.1016/j.rala.2018.10.001">interview</a>.
+</div>
+
+<div class="research-column-image">
+<a target="_blank" href="/../../assets/img/research/cow.jpg"><img src="/../../assets/img/research/cow-small.jpg" /></a>
+<div class="caption">
+Annual grassland and cattle at Tejon Ranch, CA.
+</div>
+</div>
+
+</div>
 
