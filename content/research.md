@@ -4,6 +4,30 @@ title: Research
 subtitle: 
 ---
 
+
+<div class="research-row">
+<div class="research-column-image">
+
+<img src = "/assets/img/aboutme/headshot_smaller.jpg" width = "300" >
+
+<div class="caption">
+Seeded, burned area in Owyhee, ID.
+</div>
+</div>
+
+<div class="research-column-text">
+<h3 style="text-align: center">
+Genetic Diversity of Native Plant Populations
+</h3>
+Seed-based restoration after wildfires is common throughout the Great Basin. Native perennial grass species are often included in the
+seed mix to prevent soil erosion and to provide forage. What are the effects of large-scale seeding on the genetic diversity of native
+grass populations? I am exploring this question by genotyping bluebunch wheatgrass (<i>Pseudoroegneria spicata</i>) in an area affected
+by Soda Fire in 2015.
+</div>
+</div>
+
+
+
 ### Context-Dependent Facilitation
 
 ### Coexistence in California Rangelands
