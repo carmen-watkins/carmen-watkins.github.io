@@ -5,7 +5,7 @@ title: Research
 
 <div class="research-row">
 <div class="research-column-image">
-<a target="_blank" href="/../../assets/img/research/bluebunch.jpg"><img src="/../../assets/img/research/bluebunch-small.jpg"/></a>
+<a target="_blank" href="/../../assets/img/IMG_2973.jpg"><img src="/../../assets/img/IMG_2973.jpg"/></a>
 <div class="caption">
 Seeded, burned area in Owyhee, ID.
 </div>
@@ -13,7 +13,7 @@ Seeded, burned area in Owyhee, ID.
 
 <div class="research-column-text">
 <h3 style="text-align: center">
-Genetic Diversity of Native Plant Populations
+Forecasting tree resistance to Ash Dieback Disease
 </h3>
 Seed-based restoration after wildfires is common throughout the Great Basin. Native perennial grass species are often included in the
 seed mix to prevent soil erosion and to provide forage. What are the effects of large-scale seeding on the genetic diversity of native
