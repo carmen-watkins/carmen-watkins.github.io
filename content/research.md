@@ -6,7 +6,8 @@ title: Research
 <div class="research-row">
 <div class="research-column-image">
 
-<img src = "/assets/img/aboutme/headshot_smaller.jpg" width = "200" >
+<a target="_blank" href="/../../assets/img/aboutme/headshot_smaller.jpg"><img src="/../../assets/img/aboutme/headshot_smaller.jpg"/></a>
+
 <div class="caption">
 Seeded, burned area in Owyhee, ID.
 </div>
