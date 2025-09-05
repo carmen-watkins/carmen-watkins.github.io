@@ -9,7 +9,7 @@ title: Research
 ### Context-Dependent Facilitation
 <div align = "left">
 
-<img src = "/assets/img/research/sp_interaction_diagram.jpg" width = "300" >
+<img src = "/assets/img/research/sp_interaction_diagram.jpeg" width = "300" >
 
 </div>
 
