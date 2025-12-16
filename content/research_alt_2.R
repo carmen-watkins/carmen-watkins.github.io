@@ -1,0 +1,49 @@
+<!-- Banner -->
+  
+  <section id="banner">
+    <div class="inner">
+      <hmain>Research</hmain>
+      </div>
+      </section>
+      <!--<section id="main" class="wrapper style1">
+        {% for post in site.posts %}
+      <div class="wrapper {% cycle 'style1', 'style2' %}">
+        <header class="major">
+          <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+            </header>
+            <section class="container">
+              {{ post.excerpt }}
+            </section>
+              <section class="special">
+                <ul class="actions">
+                  <li><a href="{{ site.baseurl }}{{ post.url }}" class="button {% cycle '', 'alt'%}">Read More</a></li>
+                    </ul>
+                    </section>
+                    </div>
+                    {% endfor %}
+                  </section>-->
+                    
+                    <section id="seeds" class="wrapper style1">
+                      <header class="major">
+                        <h2>Tradeoffs in dispersal and persistence in variable environments</h2>
+                        </header>
+                        <div class="container">
+                          <div class="row">
+                            <div class="6u">
+                              <section class="special">
+                                <a class="image fit"><img src="images/photo-reel/seeds.jpg" alt="" /></a>
+                                  </section>
+                                  </div>
+                                  <div class="6u">
+                                    <section class="special">
+                                      <p>Despite the importance of early life stages in plants, we know very little about controls over seed persistence and dispersal, two seed functions that are predicted to tradeoff, but with mixed empirical support. These functions are particularly important in dryland systems where many species rely on seed banks to buffer their populations during unfavorable periods, which will become more frequent under climate change. My postdoc project with <a href="https://hallettlab.netlify.app/">Dr. Lauren Hallett</a> at the University of Oregon and <a href="https://gremerlab.wordpress.com">Dr. Jennifer Gremer</a> at the University of California, Davis utilizes biological seed collections housed in botanical gardens to conduct a largescale seed trait study on dryland annual species across an aridity gradient. To then link these traits with dispersal and persistence behavior, I am collaborating with <a href="https://www.cefe.cnrs.fr/fr/recherche/bc/bbp/843-c/302-pierre-olivier-cheptou">Dr. Pierre-Olivier Cheptou</a> at the Center for Functional and Evolutionary Ecology in Montpellier, France to build models that can predict abundance in the “hidden” seedbank from aboveground plant community data. I will be applying these findings towards understanding invasibility of California rangelands and the future of seedbanks in annual desert communities.</p>
+                                        </section>
+                                        </div>
+                                        </div>
+                                        </div>
+                                        </section>
+                                        
+                                        
+                                        <section id="microbes" class="wrapper style2">
+                                          <header class="major">
+                                            <h2>Effects of rainfall variability and invasion on microbial function</h2>
