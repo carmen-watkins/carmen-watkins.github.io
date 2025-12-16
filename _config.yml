@@ -21,8 +21,8 @@ author: Carmen Watkins, PhD
 
 navbar-links:
   About Me: "content/aboutme"
-  Research: "content/research"
-  ResearchTest: "content/research_test2"
+  Research: "content/research.md"
+  ResearchTest: "content/research_test2.html"
   Publications: "content/publications"
   News: "content/news"
   Contact: "content/contact"
