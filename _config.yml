@@ -22,7 +22,7 @@ author: Carmen Watkins, PhD
 navbar-links:
   About Me: "content/aboutme"
   Research: "content/research"
-  ResearchTest: "content/research_test2"
+  ResearchTest: "content/research_test"
   Publications: "content/publications"
   News: "content/news"
   Contact: "content/contact"
@@ -127,7 +127,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "carmen watkins, ecology"
+#keywords: "my,list,of,keywords"
 
 ######################################
 # --- Colours / background image --- #
