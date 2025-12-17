@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Carmen Watkins at Trinity College, Dublin."
 sitemap: false
 permalink: /allnews.html
 ---

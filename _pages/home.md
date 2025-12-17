@@ -1,7 +1,7 @@
 ---
 title: "Carmen Watkins - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Carmen Watkins at Trinity College, Dublin."
 sitemap: false
 permalink: /
 ---
