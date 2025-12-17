@@ -3,7 +3,7 @@ title: "Carmen Watkins - About Me"
 layout: textlay
 excerpt: "About Me"
 sitemap: false
-permalink: /about-me
+permalink: /aboutme
 ---
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/CW_greenhouse_pic.jpg){: style="width: 70%; float: center; margin: 0px"}
