@@ -52,36 +52,11 @@ navbar-links:
 social-network-links:
   email: "cebel2@uoregon.edu"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  #facebook: deanattali
   github: carmen-watkins
-  #twitter: daattali
- # patreon: DeanAttali
-  #youtube: "@daattali"
-  #whatsapp: 15551212
-#  medium: yourname
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
+ #  linkedin: daattali
 #  bluesky: yourname
   ORCID: 0000-0003-3870-3089
   google-scholar: https://scholar.google.com/citations?user=K_gzsJoAAAAJ&hl=en
-#  discord: "invite_code" or "users/userid" or "invite/invite_code" 
-#  kaggle: yourname
-#  hackerrank: yourname
-#  gitlab: yourname
-#  itchio: yourname
-#  untappd: yourname
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
@@ -100,7 +75,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+## url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -126,7 +101,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "carmen watkins, carmen ebel, ecology"
 
 ######################################
 # --- Colours / background image --- #
