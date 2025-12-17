@@ -8,7 +8,7 @@ permalink: /
 
 I am a Postdoctoral Researcher at Trinity College, Dublin, working with Dr. Silvia Caldararu's [Plant Ecology Modelling Group](https://plantecomodelling.org/). 
 
-I am passionate about using ecological modelling and theory to address applied ecological challenges, and am particularly interested in species interactions in a changing world. My work spans from forecasting tree resistance to pathogens, to facilitation and species coexistence in grasslands. 
+My work spans from forecasting tree resistance to pathogens, to facilitation and species coexistence in grasslands. I am passionate about using ecological modelling and theory to address applied ecological challenges, and am particularly interested in species interactions in a changing world.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -35,13 +35,13 @@ I am passionate about using ecological modelling and theory to address applied e
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/drought_shelter.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/trwi_brho.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/gh_headshot.jpg" alt="Slide 5" />
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ceso_thir.jpg" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
