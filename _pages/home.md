@@ -38,7 +38,7 @@ My work spans from forecasting tree resistance to pathogens, to facilitation and
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/trwi_brho.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/CW_SFREC_lupin.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SFREC_hills.jpg" alt="Slide 5" />
         </div>       
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Mpala_giraffe.jpg" alt="Slide 6" />
